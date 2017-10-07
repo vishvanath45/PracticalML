@@ -78,3 +78,7 @@ print "final weights became\n", weights
 print "------"
 print "the answer for new input 1 0 0  is\n"
 print kitna_sahi_kitna_galat(array([1,0,0]))
+
+# _/\_
+# https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+
